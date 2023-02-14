@@ -1,5 +1,5 @@
 ![WorldCup Wizard](https://res.cloudinary.com/dfboxofas/image/upload/v1668295176/nations-crests/wcplogobrg_ucthsb.png | width=100)
-<img src="WorldCup Wizard](https://res.cloudinary.com/dfboxofas/image/upload/v1668295176/nations-crests/wcplogobrg_ucthsb.png" width="200"/>
+<img src="WorldCup Wizard](https://res.cloudinary.com/dfboxofas/image/upload/v1668295176/nations-crests/wcplogobrg_ucthsb.png" width="200">
 ## Introduction
 Welcome to World Cup Wizard
 This is a predictions game based on the recent FIFA World Cup 2022. It is structured in 2 parts:  
